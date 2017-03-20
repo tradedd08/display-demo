@@ -3,7 +3,7 @@
 }
 
 #wrapper {
-    width: 150vh;
+    width: 180vh;
     margin: auto;
     position: relative;
     box-shadow: -10px 10px 5px rgba(62, 124, 177, .3);
@@ -122,12 +122,28 @@ nav ul li a:hover {
 
 
 /* /////////// H E A D E R ///////////*/
+header {
+    position: relative;
+}
 
 header img {
     display: block;
     width: 90%;
     margin: auto;
 }
+
+
+header .hero {
+    position: absolute;
+    top: 100px;
+    left: 170px;
+    width: 220px;
+    
+    height: 200px;
+    background: red;
+    
+}
+
 
 
 /* //////////M A I N /////////////*/
