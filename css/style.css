@@ -54,9 +54,9 @@ a {
 }
 
 .main_nav .logo a:hover {
-    color: RGBA(0, 0, 0, 1.00);
+    
     font-family: sans-serif;
-    font-size: 37px;
+
 }
 
 .main_nav .logo p {
